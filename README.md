@@ -1,8 +1,8 @@
-# Bash Simulator in Python
+# Simple Nautilus (Bash Simulator)
 
 ## Overview
 
-This Bash Simulator is a Python-based application that mimics the functionalities of a Unix/Linux shell. It provides a wide range of built-in commands for file and directory manipulation, user management, and system information queries. The simulator is designed to be comprehensive and includes permission handling features.
+Simple Nautilus is a Python-based application that mimics the functionalities of a Unix/Linux shell. It provides a wide range of built-in commands for file and directory manipulation, user management, and system information queries. The simulator is designed to be comprehensive and includes permission handling features.
 
 ## Features
 
@@ -22,15 +22,15 @@ This Bash Simulator is a Python-based application that mimics the functionalitie
 
 1. Clone the repository
    ```
-   git clone https://github.com/your-repo/Bash-Simulator-in-Python.git
+   git clone https://github.com/robotic-wings/simple-nautilus.git
    ```
 2. Navigate to the project directory
    ```
-   cd Bash-Simulator-in-Python
+   cd simple-nautilus
    ```
 3. Run the program
    ```
-   python main.py
+   python nautilus.py
    ```
 
 ## Usage
