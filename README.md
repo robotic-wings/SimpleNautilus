@@ -22,7 +22,7 @@ Simple Nautilus is a Python-based application that mimics the functionalities of
 
 1. Clone the repository
    ```
-   git clone https://github.com/robotic-wings/simple-nautilus.git
+   git clone https://github.com/robotic-wings/SimpleNautilus.git
    ```
 2. Navigate to the project directory
    ```
