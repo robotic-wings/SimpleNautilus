@@ -1,0 +1,28 @@
+root:/$ root:/$ root:/$ root:/$ test:/$ cp: Permission denied
+test:/$ mv: Permission denied
+test:/$ root:/$ chmod: No such file or directory
+root:/$ root:/$ test:/$ cp: Permission denied
+test:/$ mv: Permission denied
+test:/$ cp: No such file or directory
+test:/$ mv: No such file or directory
+test:/$ root:/$ root:/$ chmod: No such file or directory
+root:/$ test:/$ cp: No such file or directory
+test:/$ mv: No such file or directory
+test:/$ root:/$ root:/$ root:/$ root:/$ test:/$ cp: Permission denied
+test:/$ mv: No such file or directory
+test:/$ root:/$ root:/$ root:/$ test:/$ mv: Permission denied
+test:/$ root:/$ rm: Invalid syntax
+root:/$ root:/$ root:/$ test:/$ rm: Permission denied
+test:/$ root:/$ rmdir: Cannot remove pwd
+root:/$ WARNING: You are just about to delete the root account
+Usually this is never required as it may render the whole system unusable
+If you really want this, call deluser with parameter --force
+(but this `deluser` does not allow `--force`, haha)
+Stopping now without having performed any action
+root:/$ root:/$ root:/$ test:/$ cd: Permission denied
+test:/$ root:/$ root:/$ root:/$ root:/$ cp: No such file or directory
+root:/$ cp: No such file or directory
+root:/$ root:/$ root:/$ root:/$ root:/$ test:/$ mv: Permission denied
+test:/$ root:/$ root:/$ rmdir: Not a directory
+root:/$ root:/$ root:/$ root:/$ root:/$ test:/$ ls: Permission denied
+test:/$ bye, test

@@ -1,0 +1,45 @@
+root:/$ root:/$ root:/$ root:/aa$ root:/aa$ root:/aa$ mv: No such file or directory
+root:/aa$ cd: No such file or directory
+root:/aa$ root:/aa/aa1$ root:/$ mkdir: Ancestor directory does not exist
+root:/$ root:/$ cd: Invalid syntax
+root:/$ cd: No such file or directory
+root:/$ root:/$ cd: Destination is a file
+root:/$ mkdir: Invalid syntax
+root:/$ root:/$ mkdir: File exists
+root:/$ root:/$ touch: Invalid syntax
+root:/$ touch: Ancestor directory does not exist
+root:/$ cp: Invalid syntax
+root:/$ root:/$ cp: File exists
+root:/$ root:/$ cp: Destination is a directory
+root:/$ cp: No such file
+root:/$ cp: Source is a directory
+root:/$ cp: Destination is a directory
+root:/$ mv: No such file
+root:/$ cd: Invalid syntax
+root:/$ cd: Invalid syntax
+root:/$ touch: Invalid syntax
+root:/$ cd: Invalid syntax
+root:/$ mkdir: File exists
+root:/$ root:/$ touch: Invalid syntax
+root:/$ drwxr-x root .
+drwxr-x root ..
+-rw-r-- root 11.sh
+-rw-r-- root 22.sh
+-rw-r-- root 55.sh
+drwxr-x root aa
+drwxr-x root bb
+-rw-r-- root haha
+drwxr-x root q
+root:/$ -rw-r-- root 11.sh
+root:/$ 11.sh
+aa1
+bb
+root:/$ -rw-r-- root 11.sh
+drwxr-x root aa1
+drwxr-x root bb
+root:/$ rmdir: Invalid syntax
+root:/$ chmod: Invalid syntax
+root:/$ root:/$ chmod: Invalid mode
+root:/$ chmod: Invalid mode
+root:/$ chmod: Invalid mode
+root:/$ bye, root

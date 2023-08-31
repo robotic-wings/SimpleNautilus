@@ -1,0 +1,49 @@
+mkdir aa
+mkdir bb
+cd aa
+mkdir aa1
+touch 11.sh
+mv 11.sh bb/11.sh
+cd aa/bb/cc
+cd /aa/aa1
+cd /
+mkdir aa/bb/cc/dd/ee
+mkdir -p aa/bb/cc/dd/ee
+cd $$$
+cd dwsqfrevfes
+touch haha
+cd haha
+mkdir $$$
+cd /../../../../..//../../../../../
+mkdir aa
+touch 11.sh
+touch $$$
+touch a/b/c/d/11.sh
+cp $$$ &&&
+touch 22.sh
+cp 22.sh 11.sh
+cp 22.sh 55.sh
+cp 22.sh aa
+cp 33.sh 44.sh
+cp aa 44.sh
+cp 11.sh .
+mv bcd efg
+cd "1234"ssss
+cd ssssd"
+touch "sssdfdf
+cd "123" "456" "789"
+mkdir -p /../../../../../
+mkdir /q/w/e/r/t -p
+touch - k
+ls -a -l
+ls -l 11.sh
+ls aa
+ls -l aa
+rmdir $$$
+chmod o+rwx $$$
+cd /
+chmod =rw aa
+chmod o=rwxd aa
+chmod g=rwx aa
+exit
+

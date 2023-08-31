@@ -1,0 +1,68 @@
+adduser test
+touch 1
+chmod o=wx 1
+su test
+cp 1 11
+mv 1 11
+su
+chmod o=rw 2
+touch 2
+su test
+cp 2 22
+mv 2 22
+cp 2 22/2222
+mv 2 22/2222
+su
+mkdir b
+chmod o=r dest_dir
+su test
+cp 2 dest_dir/2
+mv 2 dest_dir/2
+su
+mkdir -p a/b/c/d
+chmod -r o=rw a
+chmod o+rwx a/b/c/d
+su test
+cp 2 a/b/c/d/2
+mv 2 dest_dir/2
+su
+touch 3
+chmod o-w 3
+su test
+mv 3 33
+su
+rm %$%$
+touch /a/b/c/d/e
+chmod o+rwx /a/b/c/d/e
+su test
+rm /a/b/c/d/e
+su
+rmdir .
+deluser root
+mkdir aaa
+chmod o-x aaa
+su test
+cd aaa
+su
+cd /
+touch haha
+touch hehe
+cp haha 111/hahaha
+cp haha hehe/hahaha
+chmod o+w /
+mkdir hello
+chmod o-w hello
+touch hello/world
+su test
+mv hello/world hi
+su
+touch 123
+rmdir 123
+mkdir lala
+chmod o-r lala
+touch lala/gaga
+mkdir lala/haha
+su test
+ls lala/gaga
+exit
+

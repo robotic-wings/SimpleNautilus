@@ -1,0 +1,52 @@
+ls -d -l /
+mkdir home
+cd home
+mkdir edward
+adduser edward
+cd edward
+mkdir Audio
+mkdir Documents
+mkdir Downloads
+mkdir Music
+mkdir Pictures
+mkdir Videos
+mkdir .ssh
+cd ..
+chown -r edward edward
+ls -l edward
+ls -a -l edward
+su edward
+cd edward/Music
+touch rich_ashley.mp3
+mv rich_ashley.mp3 rick_ashley.mp3
+touch faded.mp3
+touch "C418 - Aria Math.mp3"
+chmod a+rwx rick_ashley.mp3
+cd ..
+cd Documents
+touch "How to date a sugar momma.txt"
+chmod o-rwx "How to date a sugar momma.txt"
+cd ..
+rm Music
+rmdir Music
+rmdir Videos
+su
+apt install python3
+adduser guest
+su guest
+pwd
+mkdir aaa
+cd Documents
+touch hey.txt
+cp Music/faded.mp3 /faded.mp3
+rm Music/faded.mp3
+rmdir Music
+chmod -r o+rwx Music
+adduser guest_friend
+deluser guest_friend
+su
+adduser $$$
+deluser guest
+cd
+exit
+

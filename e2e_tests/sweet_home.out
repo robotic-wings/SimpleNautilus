@@ -1,0 +1,31 @@
+root:/$ drwxr-x root /
+root:/$ root:/$ root:/home$ root:/home$ root:/home$ root:/home/edward$ root:/home/edward$ root:/home/edward$ root:/home/edward$ root:/home/edward$ root:/home/edward$ root:/home/edward$ root:/home/edward$ root:/home$ root:/home$ drwxr-x edward Audio
+drwxr-x edward Documents
+drwxr-x edward Downloads
+drwxr-x edward Music
+drwxr-x edward Pictures
+drwxr-x edward Videos
+root:/home$ drwxr-x edward .
+drwxr-x root ..
+drwxr-x edward .ssh
+drwxr-x edward Audio
+drwxr-x edward Documents
+drwxr-x edward Downloads
+drwxr-x edward Music
+drwxr-x edward Pictures
+drwxr-x edward Videos
+root:/home$ edward:/home$ edward:/home/edward/Music$ edward:/home/edward/Music$ edward:/home/edward/Music$ edward:/home/edward/Music$ edward:/home/edward/Music$ edward:/home/edward/Music$ edward:/home/edward$ edward:/home/edward/Documents$ edward:/home/edward/Documents$ edward:/home/edward/Documents$ edward:/home/edward$ rm: Is a directory
+edward:/home/edward$ rmdir: Directory not empty
+edward:/home/edward$ edward:/home/edward$ root:/home/edward$ apt: Command not found
+root:/home/edward$ root:/home/edward$ guest:/home/edward$ /home/edward
+guest:/home/edward$ mkdir: Permission denied
+guest:/home/edward$ guest:/home/edward/Documents$ touch: Permission denied
+guest:/home/edward/Documents$ cp: No such file
+guest:/home/edward/Documents$ rm: No such file
+guest:/home/edward/Documents$ rmdir: No such file or directory
+guest:/home/edward/Documents$ chmod: No such file or directory
+guest:/home/edward/Documents$ adduser: Operation not permitted
+guest:/home/edward/Documents$ deluser: Operation not permitted
+guest:/home/edward/Documents$ root:/home/edward/Documents$ adduser: Invalid syntax
+root:/home/edward/Documents$ root:/home/edward/Documents$ cd: Invalid syntax
+root:/home/edward/Documents$ bye, root
